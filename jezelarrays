@@ -1,0 +1,6 @@
+
+names = ["Ais", "Janrik", "Den", "Bea"]
+
+print("List of Names:")
+for name in names:
+    print(name)
